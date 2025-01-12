@@ -231,6 +231,15 @@ body {
     width: 32%;
 }
 
+.sitem {
+    margin: 0 auto;
+}
+
+.sitem img {
+    width: 100%;
+    height: 100%;
+}
+
 .service_img {
     border-radius: 20px;
     width: 100%;
